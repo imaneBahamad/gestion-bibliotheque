@@ -1,4 +1,4 @@
-#getion-bibliotheque
+# Gestion bibliotheque
 
 Application Ruby de gestion d'une bibliothèque en utilisant des fichiers CSV.
 
