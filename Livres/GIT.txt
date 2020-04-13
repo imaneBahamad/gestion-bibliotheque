@@ -1,0 +1,29 @@
+**************** GIT : Take a snapshot of your work *******************
+
+Git commands:
+  git init
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+  git status
+  git add .
+  git branch
+  git branch name
+  git commit -m ""
+  git show-branch --> shows all commits
+  git push origin branch
+  git checkout branch
+  
+  git status -uno
+  git fetch 										-> git pull
+  git merge FETCH_HEAD --allow-unrelated-histories
+
+  git remote add origin https://github.com/Qandili/EnSaleBack.git
+  git remote show origin
+  git remote
+
+  git reset --hard [commit hash]
+  git fetch --all
+  git merge FETCH_HEAD --allow-unrelated-histories
+
+=> Undo init :
+	rm -rf .git
